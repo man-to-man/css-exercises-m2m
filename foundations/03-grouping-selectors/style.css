@@ -1,0 +1,13 @@
+.R,.L{
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman","sans-serif";
+}
+
+.R{
+    color: white;
+    background-color: black;
+}
+.L{
+    color: black;
+    background-color: yellow;
+}
